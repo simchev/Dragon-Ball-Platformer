@@ -1,5 +1,5 @@
-# Tetris
+# Dragon Ball Platformer
 
-A tetris game I made in Java a long time ago.
+A Dragon Ball platformer game I made in Java a long time ago.
 
-![Tetris image](./github/Tetris.png)
+![DBZ image](./github/dbz.PNG)
