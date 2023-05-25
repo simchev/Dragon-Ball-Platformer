@@ -1,5 +1,5 @@
 # Dragon Ball Platformer
 
-A Dragon Ball platformer game I made in Java a long time ago.
+An unfinished Dragon Ball platformer game I made in Java a long time ago.
 
-![DBZ image](./github/dbz.PNG)
+![DBZ image](./github/dbz.png)
